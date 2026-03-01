@@ -1,4 +1,4 @@
-# <h1 align="center">Fractals Project 🌿</h1>
+# <h1 align="center">Branching connections</h1>
 
 ---
 
